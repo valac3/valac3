@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>About Me</h1>
-     <img src="https://media-exp1.licdn.com/dms/image/C4D1BAQF_vxM1k3I20Q/feedshare-shrink_800/0/1636384755490?e=1640217600&v=beta&t=ZSQnX0y2Gb7uxc5A4kOjhxjWp9nWcVKk4nFd4MKozzM" alt="The Art of Graphic Design">
+     <img src="C:\Users\Bambo\OneDrive\Documents\git215\m2\Extra Credit" alt="Lightbulb">
     <p>Hello there! I'm Valerie, a passionate aspiring developer currently studying graphic design at Arizona State Univerisy. After graduation, I aim to pursue a career in somewhere in the vast world of graphic design, I just haven't narrowed down my sepcific field yet.</p>
     <h2>Technical Skills</h2>
       <p>Skills I am currently developing:</p>
