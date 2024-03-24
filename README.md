@@ -6,7 +6,6 @@
 </head>
 <body>
     <h1>About Me</h1>
-     <img src="C:\Users\Bambo\OneDrive\Documents\git215\m2\Extra Credit" alt="Lightbulb">
     <p>Hello there! I'm Valerie, a passionate aspiring developer currently studying graphic design at Arizona State Univerisy. After graduation, I aim to pursue a career in somewhere in the vast world of graphic design, I just haven't narrowed down my sepcific field yet.</p>
     <h2>Technical Skills</h2>
       <p>Skills I am currently developing:</p>
@@ -28,5 +27,6 @@
         <ul>
             <li><a href="https://www.linkedin.com/in/valerie-c-08709947/">LinkedIn</a></li>
         </ul>
+    <img src="graphic-design-lightbulb.jpg" alt="Lightbulb">
 </body>
 </html>
