@@ -8,14 +8,14 @@
     <h1>About Me</h1>
     <p>Hello there! I'm Valerie, a passionate aspiring developer currently studying graphic design at Arizona State Univerisy. After graduation, I aim to pursue a career in somewhere in the vast world of graphic design, I just haven't narrowed down my sepcific field yet.</p>
     <h2>Technical Skills</h2>
-      <p>Skills I am currently developing:</p>
+      <p>I am shocked to say that I am enjoying dipping my toes into the coding world. I am typically an artsy type who likes to think outside the box. Stepping into the strict language of HTML has been a challenge that takes me outside of my comfort zone. I think I may have unlocked a new love.</p>
         <ul>
-            <li>HTML5</li>
+            <li>HTML</li>
             <li>CSS3</li>
             <li>JavaScript</li> 
         </ul>
     <h2>Hobbies</h2>
-      <p>When I'm not coding, you can find me:</p>
+      <p>When I'm not doing school or at work, you can find me:</p>
       <ul>
           <li>Reading a good fantasty book</li>
           <li>Gardening</li>
